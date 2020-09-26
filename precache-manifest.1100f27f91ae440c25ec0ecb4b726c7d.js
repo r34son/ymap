@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84b5a34affe0a5d9b9d366fdcde70c65",
+    "revision": "67a55cb7685527cdc8f744acea27aa1a",
     "url": "/ymap/index.html"
   },
   {
